@@ -1,0 +1,38 @@
+td{
+    text-align: center;
+    border: 1px solid rgb(255, 255, 255);
+    
+}
+.picture1{
+    background-image: url("img/pic1.PNG"); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.picture2{
+    background-image: url("img/pic2.PNG"); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.picture3{
+    background-image: url("img/pic3.PNG"); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+table{
+    border-collapse: collapse;
+    background-color: black;
+    width: 600px;
+    height: 900px;
+    margin:auto;
+}
+div{
+    height: 900px;
+    background-image: url("img/header.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
